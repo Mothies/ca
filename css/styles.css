@@ -1,0 +1,175 @@
+body{
+    font-family:"Vazirmatn";
+}
+
+h1{
+  font-family: "Vazirmatn";
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2{
+  font-family: "Vazirmatn";
+  font-size: 2rem;
+  line-height: 1.5;
+}
+h3{
+  font-family:"Vazirmatn";
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+p{
+  color:#8f8f8f;
+}
+
+
+.container-fluid{
+  padding:3% 15%;
+}
+
+#title{
+  background-color:#ff4c68;
+  color:#fff;
+}
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.navbar-brand{
+  font-family:"Ubuntu";
+  font-size: 2.5rem;
+  font-weight:bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+
+}
+
+.nav-link{
+font-family: "Vazirmatn";
+font-size: 1.2rem;
+}
+
+.download-button{
+  margin: 10% 5%  5% 0;
+}
+
+.title-image{
+  width: 60%;
+  transform:rotate(25deg);
+  position:relative;
+  top:100px;
+  left:50px;
+}
+
+@media (max-width:1046px) {
+  #title{
+   text-align: center;
+  }
+ }
+ 
+#features{
+    padding: 7% 13%;
+    background-color: #fff;
+    position: relative;
+    bottom: 100px;
+
+}
+.title-image-container{
+  height: 500px;
+
+}
+
+.features-box{
+ text-align:center;
+ padding: 6%;
+}
+
+.icon{
+  color: #ff4c68;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color:gray;
+}
+
+#testimonials{
+  background-color:#ff4c68;
+  text-align: center;
+
+  color:#fff;
+}
+.carousel-item{
+  padding:6% 10%;
+}
+
+.dog-img{
+  border-radius: 100%;
+  margin: 20px;
+  width:9%;
+}
+
+#press{
+    background-color:#ff4c68;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-col{
+  padding: 5% 5%;
+}
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  font-family: "Vazirmatn";
+  color:#fff;
+  padding:5% 0;
+}
+.selection-text{
+  line-height: 1.5;
+  font-size: 3.5rem;
+}
+
+.end-button{
+  margin: 4% 1% 0;
+}
+
+#footer{
+  background-color: #fff;
+  font-family: "Vazirmatn";
+  text-align: center;
+  margin-top: 100px;
+}
+
+.selection-text{
+
+  font-weight: 500;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.social{
+  color:black;
+  padding: 7px;
+}
+
+.last-text{
+  margin-top: 30px;
+  font-weight: 300;
+  color: gray;
+}
